@@ -1,7 +1,7 @@
 # Projet-Tp-sec
 Bonjour voila notre code pour le project du tp du module de sécurité 
 
-# Binomeme
+# Binôme
 
 | Nom       	| Prénom 	| Matricule    	|
 |-----------	|--------	|--------------	|
